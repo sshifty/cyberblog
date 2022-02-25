@@ -7,6 +7,7 @@
   },
   "scripts": {
     "start": "node ./bin/www",
+    "heroku-postbuild": "cd client && npm install && npm run build",
     "devstart": "set PORT=5000 && nodemon ./bin/www",
     "serverstart": " SET DEBUG=blog_app:* & npm run devstart"
   },

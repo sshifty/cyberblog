@@ -1,6 +1,6 @@
 # Cyberblog (Client)
 
-<p><a href="https://kfig21.github.io/blog_client/" target="_blank" rel="noopener noreferrer">View the project here!</a> 👀</p>
+<p><a href="https://vast-beyond-71925.herokuapp.com/" target="_blank" rel="noopener noreferrer">View the project here!</a> 👀</p>
 
 
 

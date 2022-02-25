@@ -12,7 +12,9 @@ const About = (props) => {
           The Odin Project's NodeJs curriculum by me.
         </p>
         <div className="img-container">
-          <img className="logo" src={githubImg} alt="github logo" />
+          <a href="https://github.com/sshifty/cyberblog" target="_blank">
+            <img className="logo" src={githubImg} alt="github logo" />
+          </a>
         </div>
       </div>
     </div>
